@@ -10,9 +10,7 @@ header {
     width: 100%;
     background-image: url('./../img/pattern.png');
     background-color: rgb(78, 160, 255);
-    background-size: 20%;
-    
-    
+    background-size: 20%;  
 }
 
 #logo {
@@ -23,6 +21,33 @@ header {
 
 /* MAIN */
 
+main {
+    margin-left: 5px;
+}
+
+.first-title {
+    padding: 10px 35% 10px 10px;
+}
+
+#title {
+    font-size: 50px;
+}
+
+#sub-title {
+    color: #808080;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#title-link {
+    color: #2FAFE7;
+    text-decoration: none;
+}
+
+#date-title {
+    color: #9A9A9A;
+    font-weight: 550;
+}
 
 
 /* FOOTER */
