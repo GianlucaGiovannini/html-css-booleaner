@@ -23,6 +23,7 @@ header {
 
 main {
     margin-left: 8px;
+    width: 77%;
 }
 /* section .first-title */
 .first-title {
@@ -46,20 +47,58 @@ main {
 
 #date-title {
     color: #9A9A9A;
-    font-weight: 550;
 }
 
 /* section .photos */
 .photos {
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .photobox {
     margin-right: 10px;
     width: auto;
-    height: 600px;
+    height: 500px;
 }
 
+/* section description */
+.description {
+    font-size: 20px;
+}
+
+.paragraph {
+    margin: 20px 0px;
+}
+
+ul {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+/* section table-colored */
+
+table {
+    width: 100%;
+    font-size: 20px;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #20A9E5;
+    color: white;
+}
+
+td {
+    height: 30px;
+}
+
+.col3 {
+    width: 50%;
+}
+
+.trow-color {
+    background-color: #B1E5F2;
+}
 
 /* FOOTER */
 
