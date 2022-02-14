@@ -102,5 +102,36 @@ td {
 }
 
 /* FOOTER */
+footer {
+    margin-left: 8px;
+}
+.color-interest {
+    color: #808080;
+    font-size: 20px;
+    font-weight: 600;
+}
 
+.img-footer1 {
+    width: 312px;
+    height: 208px;
+    background-image: url('./../img/monitor.jpg');
+    background-size: cover;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.img-footer2 {
+    width: 312px;
+    height: 208px;
+    background-image: url('./../img/graph.jpg');
+    background-size: cover;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 15px;
+}
 
