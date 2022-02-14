@@ -1,0 +1,49 @@
+* {
+    text-align: center;
+}
+
+#full-background{
+    background-image: url('./../img/pattern.png');
+    background-color: rgb(78, 160, 255);
+    background-size: 20%;
+}
+
+#container {
+    width: 90%;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    padding-left: 8px;
+}
+
+
+/* section .first-title */
+#full-title {
+    padding: 10px 20px;
+}
+
+/* section .photos */
+#center-photo {
+    text-align: center;
+}
+
+/* section table-colored */
+.bg-white {
+    background-color: white;
+}
+
+/* section footer */
+
+#foot-container {
+    width: 312px;
+    margin: auto;
+    /* background-color: rgba(255, 255, 255, 0.3); */
+    border-radius: 10px;
+    padding-left: 8px;
+}
+
+#footer-text {
+    border: 2px solid white;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.3);
+}
