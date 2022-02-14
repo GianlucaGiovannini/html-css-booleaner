@@ -112,27 +112,21 @@ footer {
     font-weight: 600;
 }
 
-.img-footer1 {
+.img-footer {
     width: 312px;
     height: 208px;
+    background-size: cover;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+#imgfooter1 {
     background-image: url('./../img/monitor.jpg');
-    background-size: cover;
-    padding: 10px;
-    color: white;
-    font-size: 30px;
-    font-weight: 600;
-    margin-top: 15px;
 }
 
-.img-footer2 {
-    width: 312px;
-    height: 208px;
+#imgfooter2 {
     background-image: url('./../img/graph.jpg');
-    background-size: cover;
-    padding: 10px;
-    color: white;
-    font-size: 30px;
-    font-weight: 600;
-    margin-top: 15px;
 }
-
