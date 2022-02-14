@@ -1,13 +1,25 @@
 * {
-    margin: o;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 /* HEADER */
+header {
+    height: 100px;
+    width: 100%;
+    background-image: url('./../img/pattern.png');
+    background-color: rgb(78, 160, 255);
+    background-size: 20%;
+    
+    
+}
 
-
-
+#logo {
+    width: 10%;
+    height: auto;
+    margin: 40px 0 10px 5px;
+}
 
 /* MAIN */
 
